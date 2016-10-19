@@ -1,13 +1,11 @@
 # git/github 입문
 ## git 입문했어요!
-![Image of octocat]
-(https://octodex.github.com/images/welcometocat.png)
+<img src="https://octodex.github.com/images/welcometocat.png" height="200">
 
 
 
 # github markdown 문법
 >[link to markdown reference](https://guides.github.com/features/mastering-markdown/)
-
 
 
  
